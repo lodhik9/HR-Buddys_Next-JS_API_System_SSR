@@ -11,4 +11,4 @@ This project includes:
 - Next.js 13 page, layout, loading, and error Special Files
 - Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
 - Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Client Side Rendering (CSR),
+- Client Side Rendering (SSR),
